@@ -8,3 +8,12 @@ Installing
 ============
     pip install distru
 
+Project description
+===================
+- This package works so far with two distributions, normal and binomial distribution.
+- Package by default will generate random data from parameters you pass it or default parameters.
+- Can read data from a file and the package will calculate its attributes automatically.
+- Add two distributions of the same type together.
+- Calculate some functions like PDF or PMF.
+- Visualize distributions.
+
