@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(name='distru',
-      version='0.1',
+      version='0.1.1',
       description="Package to generate or read different distributions.\
                   Visualize and make some operations on the distributions",
       long_description=long_description,
